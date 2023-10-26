@@ -6,8 +6,8 @@
 Development of Weighted Electronic Voting SDK
 
 ### Author
-Sumong Woo
-Jina Jung
+Sumong Woo [@su-mong] <br>
+Jina Jung [@jung-gina](https://github.com/jung-gina)
 
 ### Project Structure
 - smart-contract vote library
